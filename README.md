@@ -12,7 +12,6 @@ s# テーブル設計
 | experience_id      | integer | null: false |
 | prefecture_id      | integer | null: false |
 | address            | string  | null: false |
-| phone_number       | string  | null: false |
 | birthday           | date    | null: false |
 
 ### Association
